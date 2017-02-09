@@ -1,0 +1,10 @@
+body {
+  background-color: lightblue;
+}
+.spoiler {
+  background-color: orange;
+  color: orange;
+}
+.spoiler:hover {
+  background-color: lightblue;
+}
